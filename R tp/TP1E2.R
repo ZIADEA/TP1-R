@@ -1,0 +1,13 @@
+v<-c(1,"DJERI",TRUE,NULL,NA,NaN,Inf)
+v
+v1<-c(1,"DJERI",TRUE)
+v2<-c(NULL,NA,NaN,Inf)
+mode(v)
+mode(v1)
+mode(v2)
+is.infinite(v)
+is.infinite(v1)
+is.infinite(v2)
+is.na(v)
+is.na(v1)
+is.na(v2)

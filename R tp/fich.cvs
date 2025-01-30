@@ -1,0 +1,6 @@
+"nom","age","departement","salaire","sexe"
+"Alice",25,"IT",3000,"f"
+"Bob",30,"Finance",4000,"m"
+"Charlie",28,"HR",3500,"m"
+"Diane",35,"IT",4500,"f"
+"Edward",40,"Finance",5000,"m"
